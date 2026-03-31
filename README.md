@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Senior%20Backend%20Engineer&fontColor=ffffff&fontSize=34&animation=fadeIn&fontAlignY=42&desc=Cloud-Native%20%E2%80%A2%20Microservices%20%E2%80%A2%20AI%20Pipelines%20%E2%80%A2%20FinTech%20%E2%80%A2%20Healthcare&descColor=c9d1d9&descAlignY=62&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Senior%20Backend%20Engineer&fontColor=ffffff&fontSize=34&animation=fadeIn&fontAlignY=32&desc=Cloud-Native%20%E2%80%A2%20Microservices%20%E2%80%A2%20AI%20Pipelines%20%E2%80%A2%20Blockchain%20%E2%80%A2%20FinTech%20%E2%80%A2%20Healthcare&descColor=c9d1d9&descAlignY=52&descSize=14" />
 </p>
-
-<br/>
-
 ## 👨‍💻 About Me
 
 Senior **Full Stack & Backend Engineer** with 10+ years of experience designing and shipping high-performance, production-grade systems across **FinTech / Crypto**, **e-commerce**, **Healthcare**, and **Real Estate** domains. Deep expertise in **cloud-native architectures**, **blockchain transaction pipelines**, **distributed microservices**, **real-time event streaming**, and **AI-powered data processing** — from database layer to frontend delivery.
@@ -107,7 +104,3 @@ Senior **Full Stack & Backend Engineer** with 10+ years of experience designing 
 ![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
-</p>
